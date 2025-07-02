@@ -13,7 +13,7 @@ This repository contains my completed tasks for the **Power BI Internship at Cod
 - Trend analysis of profitability over time  
 - Forecasting insights for planning and budgeting  
 **Screenshot:**  
-![Financial Health Dashboard]()
+![Financial Health Dashboard](https://github.com/Lilly11-cloud/CodeAlpha_Kaushani/blob/main/Finanacial%20Health%20Dashboard.jpg)
 
 ---
 
