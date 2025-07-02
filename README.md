@@ -1,4 +1,3 @@
-# CodeAlpha_Kaushani_Power BI
 # CodeAlpha Power BI Internship — Kaushani
 
 This repository contains my completed tasks for the **Power BI Internship at CodeAlpha**. It includes interactive dashboards and insights created using Power BI Desktop based on real-world datasets.
