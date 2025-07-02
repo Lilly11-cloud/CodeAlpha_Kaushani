@@ -13,8 +13,8 @@ This repository contains my completed tasks for the **Power BI Internship at Cod
 - Trend analysis of profitability over time  
 - Forecasting insights for planning and budgeting  
 **Screenshot:**  
-(![Financial Health Dashboard](./Finanacial%20Health%20Dashboard.jpg))
-https://github.com/Lilly11-cloud/CodeAlpha_Kaushani/blob/main/Balance%20Sheet.jpg
+![Financial Health Dashboard](https://github.com/Lilly11-cloud/CodeAlpha_Kaushani/blob/main/Financial%20Health%20Dashboard.png)
+
 ---
 
 ### 2. Human Resources Analytics
@@ -24,7 +24,7 @@ https://github.com/Lilly11-cloud/CodeAlpha_Kaushani/blob/main/Balance%20Sheet.jp
 - Satisfaction and performance metrics  
 - Predictive analytics for HR planning  
 **Screenshot:**  
-![Human Resources Analytics]()
+![Human Resources Analytics](https://github.com/Lilly11-cloud/CodeAlpha_Kaushani/blob/main/Human%20Resourse%20Analaysis.jpg)
 
 ---
 
@@ -35,7 +35,7 @@ https://github.com/Lilly11-cloud/CodeAlpha_Kaushani/blob/main/Balance%20Sheet.jp
 - Price and rental yield tracking  
 - Heat maps for location insights  
 **Screenshot:**  
-![Real Estate Market Trends]()
+![Real Estate Market Trends](https://github.com/Lilly11-cloud/CodeAlpha_Kaushani/blob/main/Real%20Estate%20Market%20Trendes.jpg)
 
 ---
 
@@ -46,7 +46,7 @@ https://github.com/Lilly11-cloud/CodeAlpha_Kaushani/blob/main/Balance%20Sheet.jp
 - Gap analysis in resource usage  
 - Insights for school/university management  
 **Screenshot:**  
-![Educational Performance]()
+![Educational Performance](https://github.com/Lilly11-cloud/CodeAlpha_Kaushani/blob/main/Educational%20Performance.jpg)
 
 ---
 
@@ -69,5 +69,6 @@ Feel free to connect!
 
 > ✅ Internship By: [CodeAlpha](https://www.codealpha.tech)  
 > 📅 Duration: June–July 2025  
+
 
 
